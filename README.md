@@ -57,7 +57,7 @@ Beyond writing clean code, I am a strong advocate for collaborative engineering,
 ### 📊 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-Git-1216&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Atharv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-Git-1216&show_icons=true&theme=radical&hide_border=true" alt="Atharv's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Git-1216&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
