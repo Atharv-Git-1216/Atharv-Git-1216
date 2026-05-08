@@ -12,10 +12,10 @@ Beyond writing clean code, I am a strong advocate for collaborative engineering,
 
 | Domain | Proficiency |
 | :--- | :--- |
-| **Languages** | Dart, Python, JavaScript, SQL |
+| **Languages** | Dart, Python, JavaScript, C++, SQL |
 | **Frameworks** | Flutter, Flask, RESTful APIs |
 | **Cloud & Backend** | Firebase (Auth, Firestore, Hosting), Supabase (PostgreSQL), Google Cloud |
-| **AI & Productivity** | GitHub Copilot, Google AI Pro |
+| **AI & Productivity** | GitHub Copilot, Google AI Pro, Claude AI, ChatGPT |
 | **Specialized Tech** | ARCore (Augmented Reality), Firebase App Distribution |
 
 ---
