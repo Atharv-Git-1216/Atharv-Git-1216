@@ -1,4 +1,4 @@
-                                                         # 👋 Hi, I'm Atharv Singh Raghuvanshi
+# 👋 Hi, I'm Atharv Singh Raghuvanshi
 
 ### 🚀 Full-Stack Developer | Computer Science (Core) Student @ VIT Bhopal '29
 
