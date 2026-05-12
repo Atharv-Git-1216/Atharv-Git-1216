@@ -8,7 +8,7 @@
 
 ## 🔗 > TECHNICAL ARSENAL
 
-> TELEMETRY: CORE LANGUAGES & FRAMEWORKS
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+CORE+LANGUAGES+%26+FRAMEWORKS" alt="Telemetry" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-> TELEMETRY: CLOUD, BACKEND & SPECIALIZED TECH
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+CLOUD,+BACKEND+%26+TECH" alt="Telemetry" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/ARCore-FF4F8B?style=for-the-badge&logo=arcore&logoColor=white" />
 </p>
 
-> TELEMETRY: AI & WORKFLOW
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=14&color=D80000&pause=1000&vCenter=true&width=400&lines=>+TELEMETRY:+AI+%26+WORKFLOW" alt="Telemetry" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -42,7 +42,7 @@
 ## 📊 > ACTIVITY GRID
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-Git-1216&show_icons=true&theme=radical&hide_border=true" height="165" alt="Atharv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-Git-1216&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="Atharv's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-Git-1216&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 <p align="left">
