@@ -105,5 +105,5 @@ I believe the best developers are well-rounded individuals. When I step away fro
 
 ---
 <p align="center">
-  <i>"Code is not just instructions for a machine; it's a tool to empower people."</i>
+  <i>"Code is not just instructions for a machine; it's a tool to empower people and shape more creative minds."</i>
 </p>
